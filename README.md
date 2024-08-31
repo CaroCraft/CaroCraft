@@ -1,6 +1,6 @@
 👋 Hi, I’m @CaroCraft
 
-👀 I’m interested in video games, data analysis and IA
+👀 I’m interested in video games, data analysis and AI
 
 🌱 I’m currently learning C# and Unity!
 
