@@ -2,7 +2,7 @@
 
 👀 I’m interested in video games, data analysis and AI
 
-🌱 I’m currently learning C# and Unity!
+🌱 Learning mobile and web!
 
 💞️ I’m looking to collaborate on any video game or other types of projects
 
